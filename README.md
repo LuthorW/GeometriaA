@@ -4,7 +4,7 @@ Este repositório reúne meus estudos, exercícios e materiais desenvolvidos na 
 
 > 📍 Universidade Federal de Alfenas – UNIFAL  
 > 👩‍🎓 Aluna: Letícia Santos Alves  
-> 🗂️ Repositório: [github.com/LuthorW/Geometria-Analitica](https://github.com/LuthorW/Geometria-Analitica)
+> 🗂️ Repositório: [github.com/LuthorW/Geometria-Analitica](https://github.com/LuthorW/GeometriaA)
 
 ---
 
