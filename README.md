@@ -16,3 +16,14 @@ Aqui você encontrará:
 - 📈 **Exercícios resolvidos**
 
 ---
+
+## 🧠 Tópicos Abordados
+
+- Coordenadas cartesianas no plano e no espaço
+- Distância entre pontos e ponto médio
+- Equações da reta e da circunferência
+- Vetores, ângulos e projeções
+- Planos e superfícies
+- Cônicas e suas representações
+
+---
